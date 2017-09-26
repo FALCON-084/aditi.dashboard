@@ -12,7 +12,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 $config = array(
 	'default' => array(
-		'hostname' => 'http://aditidashboard.azurewebsites.net',
+		'hostname' => 'myserver4aditidashboard.mysql.database.azure.com',
 		'port'     => '11211',
 		'weight'   => '1',
 	),

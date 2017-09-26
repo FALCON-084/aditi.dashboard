@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'aditidashboard.database.windows.net',
-	'username' => 'aditi',
+	'hostname' => 'myserver4aditidashboard.mysql.database.azure.com',
+	'username' => 'aditi@myserver4aditidashboard',
 	'password' => 'Bot@1234',
-	'database' => 'aditi_dashboarddb',
+	'database' => 'dashboard',
 	'dbdriver' => 'mysqli',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
