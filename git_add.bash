@@ -1,7 +1,5 @@
 git add *
-git commit -m 'new message'
+git commit -m '$1'
 git push origin master
-FALCON-084
-saiki123
 git log
 
